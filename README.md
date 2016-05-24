@@ -1,2 +1,2 @@
 # charactersdisplay
-Cool project on displaying letters and alphabets BIGGER!!!
+Cool project on displaying digits and alphabets BIGGER!!!
